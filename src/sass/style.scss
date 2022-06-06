@@ -2,6 +2,8 @@
 * {
     font-family: 'Museo Sans Cyrl', sans-serif;
     box-sizing: border-box;
+    margin: 0;
+    padding: 0;
 }
 .container {
     max-width: 950px;
@@ -15,3 +17,4 @@
 @import 'blocks/titles';
 @import 'blocks/consultation';
 @import 'blocks/forms';
+@import 'blocks/catalog';
